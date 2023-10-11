@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(moon.png);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(file:///Users/philwilsonjr/Library/Mobile%20Documents/com~apple~CloudDocs/Downloads/images/spookymoon.jpg);
     background-position: center;
     background-size: cover; 
     height: 109vh;
