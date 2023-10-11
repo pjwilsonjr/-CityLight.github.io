@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+git add .
+git commit -m "Initial commit"
+
