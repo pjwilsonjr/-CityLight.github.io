@@ -6,7 +6,7 @@
 
 body {
     width: 100%;
-    background-image: url('/path/to/spookymoon.jpg');
+    background-image: url(images/spookymoon.jpg);
     background-size: cover; 
     background-position: center;
     height: 109vh;
