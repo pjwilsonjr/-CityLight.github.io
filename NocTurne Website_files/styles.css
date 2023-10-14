@@ -4,7 +4,7 @@
 
 }
 
-.main{
+body {
     width: 100%;
     background-image: url("images\spookymoon.jpg");
     background-size: cover; 
