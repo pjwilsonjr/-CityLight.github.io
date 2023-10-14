@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background-image: "../images/portspookymoon.jpg"
+    background-image: url("images\spookymoon.jpg");
     background-size: cover; 
     background-position: center;
     height: 109vh;
