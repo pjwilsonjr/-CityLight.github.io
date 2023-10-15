@@ -6,7 +6,7 @@
 
 body {
     width: 100%;
-    background-image: '../images/city.jpg';
+    background-image: /assets/images/city.jpg;
     background-size: cover; 
     background-position: center;
     height: 109vh;
